@@ -8,4 +8,6 @@ bu seneki (2024) üniversite taban puanlarını yıldan yılaki degişimi ile ta
 
 `python3 üni_sıralama_tahmini.py`
 
+> 1 yıllık olan kısımda seçtiginiz üniversitenin sıralamasına en yakın olan üniversiteyi seçiniz
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=baverozmen&show_icons=true&theme=radical)
